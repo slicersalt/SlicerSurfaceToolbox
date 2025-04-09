@@ -14,6 +14,7 @@ add_subdirectory(SurfaceToolbox)
 add_subdirectory(DynamicModeler)
 add_subdirectory(MeshAlignment)
 add_subdirectory(MeshDataImprinter)
+add_subdirectory(SurfaceFeatureExtractor)
 
 ## NEXT_MODULE
 
