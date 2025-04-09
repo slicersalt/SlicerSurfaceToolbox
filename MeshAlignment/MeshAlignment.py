@@ -17,7 +17,7 @@ class MeshAlignment(ScriptedLoadableModule):
   def __init__(self, parent):
     ScriptedLoadableModule.__init__(self, parent)
     self.parent.title = "Mesh Alignment"
-    self.parent.categories = ["Surface Models.Advanced"]
+    self.parent.categories = ["Surface Models"]
     self.parent.dependencies = []
     self.parent.contributors = ["Ye Han, Jean-Christophe Fillion-Robin, Beatriz Paniagua (Kitware)"]
     self.parent.helpText = """

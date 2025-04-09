@@ -30,6 +30,12 @@
        <property name="hideChildNodeTypes">
         <stringlist notr="true"/>
        </property>
+       <property name="addEnabled">
+        <bool>false</bool>
+       </property>
+       <property name="removeEnabled">
+        <bool>false</bool>
+       </property>
        <property name="interactionNodeSingletonTag">
         <string notr="true"/>
        </property>
