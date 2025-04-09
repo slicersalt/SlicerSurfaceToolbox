@@ -13,6 +13,7 @@ add_subdirectory(Decimation)
 add_subdirectory(SurfaceToolbox)
 add_subdirectory(DynamicModeler)
 add_subdirectory(MeshAlignment)
+add_subdirectory(MeshDataImprinter)
 
 ## NEXT_MODULE
 
